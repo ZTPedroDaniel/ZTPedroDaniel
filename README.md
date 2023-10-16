@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Vala, meu nome é Pedro Daniel, mas me chamam de Zaustt.
+
+Curto Transformers, Star Wars, JoJo, Fullmetal Alchemist, Player Tauz, Fnaf, Mortal Kombat e Jean Xeroso
+
 <!--
 **ZTPedroDaniel/ZTPedroDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
